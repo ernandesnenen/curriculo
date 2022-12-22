@@ -16,8 +16,9 @@ export default function Sobre(){
             </div>
             <div className="">
             <h2 className="text-xl font-bold py-4">Um pouco mais</h2>
-                <p>Gosto de futebol, música e tecnologia, acredito que me dou bem com o público, sou responsável, tenho
-                 senso de organização, busco adquirir novos conhecimentos e procuro realizar todas as funções a mim atribuídas sempre com eficiência e eficácia.</p>
+                <p>Gosto de futebol, música e tecnologia, sou flexivél, responsável, dedicado, tenho senso de organização,
+                 busco adquirir novos conhecimentos e procuro realizar todas as funções a mim atribuídas sempre
+                 com eficiência e eficácia.</p>
             </div>
         </main>
     )

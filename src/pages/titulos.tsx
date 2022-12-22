@@ -4,10 +4,15 @@ export default function Titulos(){
             <h1 className="text-3xl font-bold">Conquistas</h1>
             <section className="my-24 text-3xl font-bold">
                 <h2>Títulos</h2>
-                <div className="border-l-2 border-slate-700 px-2 my-12 space-y-3">
+                <div className="border-l-2 border-slate-700 px-2 my-12 space-y-3 max-w-3xl">
                         <h2 className="text-xl font-bold">Universidade Pitágoras Unopar Anhanguera</h2> 
                         <p className="text-xl">Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas</p>
-                        <p><strong className="text-xl font-normal">Tecnólogo</strong></p>
+                        <p className="flex gap-2 sm:gap-4 items-center sm:justify-between"><strong className="text-xl font-normal ">Tecnólogo</strong> <span className="text-sm sm:text-lg font-normal ">período: 01/03/2019 a 11/12/2021</span></p>
+                </div>
+                <div className="border-l-2 border-slate-700 px-2 my-12 space-y-3 max-w-3xl">
+                        <h2 className="text-xl font-bold">Instituto Centro de Ensino Tecnológico </h2> 
+                        <p className="text-xl">Curso Técnico em Informática</p>
+                        <p className="flex gap-2 sm:gap-4 items-center sm:justify-between"><strong className="text-xl font-normal ">Técnico</strong> <span className="text-sm sm:text-lg font-normal ">período: 20/02/2010 a 28/06/2013</span></p>
                 </div>
             </section>
             <section>

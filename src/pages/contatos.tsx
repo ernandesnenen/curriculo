@@ -6,7 +6,7 @@ export default function Sobre(){
                 E-mail:<br/>
                 nenenernan@gmail.com<br/>
                 Telefone:<br/>
-                (88) 99223-4547
+                (88) 99325-5379
             </address>
         </main>
     )
