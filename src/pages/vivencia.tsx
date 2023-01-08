@@ -1,7 +1,7 @@
 export default function Vivencia(){
     return(
         <main className="py-8 px-4">
-            <h1 className="text-3xl font-bold">Vivencia Profissional</h1>
+            <h1 className="text-3xl font-bold">Vivência Profissional</h1>
             <div className="my-8">
                <p>
                Trabalhei de 2010 até 2020 no Centro Vocacional Tecnológico de Itaiçaba (CVT), neste período fui responsável por diversas funções
