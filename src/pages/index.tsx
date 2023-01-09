@@ -6,7 +6,8 @@ export default function Home() {
   return (
     <main className="
       flex justify-center
-      items-center h-[calc(100vh-80px)]
+      items-center 
+      h-[calc(100vh-80px)]
       text-slate-300
       p-4
       bg-bgbody       
