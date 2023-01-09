@@ -12,7 +12,7 @@ module.exports = {
         'head-color': '#0E2430',
       }, 
       backgroundImage: {
-        'bgbody': "url('/grafico1.png')",
+        'bgbody': "url('/bg_grafico.png')",
         
       },  
      
