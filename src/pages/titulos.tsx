@@ -1,6 +1,6 @@
 export default function Titulos(){
     return(
-        <main className="px-4 py-8">
+        <main className="px-4 py-8 text-slate-300">
             <h1 className="text-3xl font-bold">Conquistas</h1>
             <section className="my-24 text-3xl font-bold">
                 <h2>Títulos</h2>

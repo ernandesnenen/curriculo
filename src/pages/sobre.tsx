@@ -1,6 +1,6 @@
 export default function Sobre(){
     return(
-        <main className="px-4 py-8">
+        <main className="px-4 py-8 text-slate-300">
             <h1 className="text-3xl font-bold">Sobre</h1>
             <div className="py-8">
                 <ul>

@@ -17,7 +17,7 @@ const NavBar = () => {
       
       <DropdownMenu.Trigger asChild >
         <button className="IconButton" aria-label="Customise options" >
-         {isOpen?  <Cross1Icon className='text-slate-300 outline-0' /> : <HamburgerMenuIcon className='text-slate-300 outline-0'/> }
+         {isOpen?  <Cross1Icon className='text-slate-300 outline-0 ' /> : <HamburgerMenuIcon className='text-slate-300 outline-0'/> }
         </button>
       </DropdownMenu.Trigger>
 

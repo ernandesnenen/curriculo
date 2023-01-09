@@ -1,6 +1,6 @@
 export default function Vivencia(){
     return(
-        <main className="py-8 px-4">
+        <main className="py-8 px-4 text-slate-300">
             <h1 className="text-3xl font-bold">Vivência Profissional</h1>
             <div className="my-8">
                <p>

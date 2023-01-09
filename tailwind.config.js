@@ -10,7 +10,11 @@ module.exports = {
     extend: {
       colors: {
         'head-color': '#0E2430',
-      },   
+      }, 
+      backgroundImage: {
+        'bgbody': "url('/grafico1.png')",
+        
+      },  
      
      },  
   },

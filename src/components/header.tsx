@@ -8,9 +8,9 @@ export function Header(){
     return(
         <div className="bg-head-color flex justify-between items-center h-20 px-4 " >
             <div>
-                <Link href="/">
+                {/* <Link href="/">
                     <strong className="text-2xl text-slate-200"> Ernandes</strong>
-                </Link>
+                </Link> */}
             </div>
             <div className="sm:hidden m-4">
                 <NavBar />
