@@ -25,7 +25,8 @@ const NavBar = () => {
         <DropdownMenu.Content className="
         DropdownMenuContent 
         w-screen
-        bg-cyan-900 my-4 "
+        bg-cyan-900 my-4 
+        text-xl"
 
         sideOffset={5}>
 

@@ -9,10 +9,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'head-color': '#0E2430',
+        'base': '#0b2d39',
+        'destaque': '#2596be',
       }, 
       backgroundImage: {
-        'bgbody': "url('/bg_grafico.png')",
+        'bgbody': "url('/base.png')",
         
       },  
      

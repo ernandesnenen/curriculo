@@ -7,7 +7,8 @@ type layoutPros={
 
 export default function Layout({ children }:layoutPros) {
   return (
-    <div className="bg-slate-900
+    <div className="
+      bg-slate-900
         min-h-[calc(100vh)]
         bg-bgbody       
         bg-cover
