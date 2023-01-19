@@ -9,13 +9,16 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'base': '#0b2d39',
-        'destaque': '#2596be',
+        'base-color': '#0b2d39',
+        'destaque': '#0e7490',
       }, 
       backgroundImage: {
         'bgbody': "url('/base.png')",
         
-      },  
+      },
+      fontSize : {
+        base: '1.25rem'
+      },
      
      },  
   },

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import {useRef} from 'react';
 import * as DropdownMenu from '@radix-ui/react-dropdown-menu';
 import {
   HamburgerMenuIcon,
@@ -16,8 +15,8 @@ const NavBar = () => {
     <DropdownMenu.Root onOpenChange={()=>setIsOpen(!isOpen)}>
       
       <DropdownMenu.Trigger asChild >
-        <button className="IconButton" aria-label="Customise options" >
-         {isOpen?  <Cross1Icon className='text-slate-300 outline-0 ' /> : <HamburgerMenuIcon className='text-slate-300 outline-0'/> }
+        <button className="IconButton " aria-label="Customise options" >
+         {isOpen?  <Cross1Icon className='text-slate-300 outline-0'  /> : <HamburgerMenuIcon className='text-slate-300 outline-0 '/> }
         </button>
       </DropdownMenu.Trigger>
 
@@ -25,7 +24,7 @@ const NavBar = () => {
         <DropdownMenu.Content className="
         DropdownMenuContent 
         w-screen
-        bg-cyan-900 my-4 
+        bg-cyan-800 my-4 
         text-xl"
 
         sideOffset={5}>

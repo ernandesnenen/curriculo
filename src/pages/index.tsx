@@ -15,7 +15,7 @@ export default function Home() {
       bg-no-repeat
       bg-slate-900">
       <div>
-        <h1 className="text-3xl font-bold text-center ">Francisco <strong className="text-destaque">Ernandes</strong> de Castro Romão</h1>
+        <h1 className="text-3xl font-bold text-center ">Francisco <strong className="text-cyan-700">Ernandes</strong> de Castro Romão</h1>
       </div>
     </main>
   )

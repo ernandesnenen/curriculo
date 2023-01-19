@@ -1,8 +1,8 @@
 export default function Sobre(){
     return(
-        <main className="px-4 py-8 text-slate-300">
+        <main className="px-4 py-8 text-slate-300 text-base">
             <h1 className="text-3xl font-bold">Sobre</h1>
-            <div className="py-8 text-xl">
+            <div className="py-8">
                 <ul>
                     <li>Brasileiro, casado, 37 anos. </li>
                     <li>
@@ -16,7 +16,7 @@ export default function Sobre(){
             </div>
             <div className="">
             <h2 className="text-xl font-bold py-4">Um pouco mais</h2>
-                <p className="text-xl">Gosto de futebol, música e tecnologia, sou flexível, responsável, dedicado, tenho senso de organização,
+                <p>Gosto de futebol, música e tecnologia, sou flexível, responsável, dedicado, tenho senso de organização,
                  busco adquirir novos conhecimentos e procuro realizar todas as funções a mim atribuídas sempre
                  com eficiência e eficácia.</p>
             </div>

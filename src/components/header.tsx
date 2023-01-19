@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export function Header(){
     return(
-        <div className="bg-base flex justify-between items-center h-20 px-4 " >
+        <div className="bg-base-color flex justify-between items-center h-20 px-4 " >
             <div>
                 {/* <Link href="/">
                     <strong className="text-2xl text-slate-200"> Ernandes</strong>
